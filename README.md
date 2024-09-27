@@ -193,4 +193,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+<<<<<<< HEAD
 *Crafted with passion and a belief in the power of open-source tools to make developers' lives easier. If you find this script as kick-ass as we do, give it a star on GitHub!*
+>>>>>>> 99fffac94714411e5bc99205a851489c845fd171
